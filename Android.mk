@@ -32,6 +32,10 @@ LOCAL_RESOURCE_DIR += frameworks/opt/colorpicker/res
 LOCAL_RESOURCE_DIR += frameworks/opt/photoviewer/res
 LOCAL_RESOURCE_DIR += frameworks/opt/photoviewer/activity/res
 
+# Viper Color Engine
+$(warning *** Including Viper Color Engine ***)
+LOCAL_RESOURCE_DIR += vendor/viper/colorengine/$(LOCAL_PATH)/res
+
 LOCAL_STATIC_JAVA_LIBRARIES := android-common
 LOCAL_STATIC_JAVA_LIBRARIES += android-common-framesequence
 LOCAL_STATIC_JAVA_LIBRARIES += android-support-v4
