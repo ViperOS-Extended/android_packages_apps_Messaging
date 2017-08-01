@@ -16,7 +16,7 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="work_directory_display_name">Profilo contatti di lavoro</string>
+  <string name="work_directory_display_name">Perfiles de contactos de trabajo</string>
   <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">Nuovo messaggio</string>
+  <string name="shortcuts_compose_new">Nuevo mensaje</string>
 </resources>
