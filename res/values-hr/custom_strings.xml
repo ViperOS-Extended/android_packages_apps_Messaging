@@ -16,5 +16,7 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="work_directory_display_name">Kontakti poslovnog profila</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Nova poruka</string>
 </resources>
